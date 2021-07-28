@@ -1,5 +1,5 @@
 ---
-title: "stlm"
+title: "STLM"
 description: |
  STLM method for Time series data
 author:
